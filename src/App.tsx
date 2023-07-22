@@ -1,10 +1,10 @@
 import "./App.css";
-import CaseOpen from "./features/case-open/index";
+import AppRoutes from './routes/index';
 
 function App() {
   return (
     <div className="App">
-      <CaseOpen />
+      <AppRoutes />
     </div>
   );
 }
