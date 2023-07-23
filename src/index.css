@@ -1,3 +1,10 @@
+:root {
+  --valo-light-red: #FF4655;
+  --valo-dark-red: #BD3944;
+  --valo-white: #FFFBF5;
+  --valo-dark-blue: #0f1923;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

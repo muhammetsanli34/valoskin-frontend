@@ -6,10 +6,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "valo-light-red": "#FF4655",
-        "valo-dark-red": "#BD3944",
-        "valo-white": "#FFFBF5",
-        "valo-dark-blue": "#0f1923",
+        "valo-light-red": "var(--valo-light-red)",
+        "valo-dark-red": "var(--valo-dark-red)",
+        "valo-white": "var(--valo-white)",
+        "valo-dark-blue": "var(--valo-dark-blue)",
       },
     },
     plugins: [],
